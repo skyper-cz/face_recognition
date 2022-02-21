@@ -5,10 +5,10 @@ android {
     compileSdk 31
     defaultConfig {
         applicationId "org.tensorflow.lite.examples.facerecognition"
-        minSdkVersion 21
-        targetSdkVersion 30
+        minSdkVersion 25
+        targetSdkVersion 31
         versionCode 1
-        versionName "1.0"
+        versionName "1.2-Alpha"
     }
     buildTypes {
         release {
